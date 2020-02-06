@@ -8,3 +8,9 @@ output: html_notebook
 ```
 
 
+```{r}
+10+9
+x <- 40
+plot(x)
+```
+
